@@ -4,6 +4,8 @@
 This documentation outlines the complete setup and configuration of a big data environment on a virtualized Ubuntu system.  
 The project demonstrates how to build an end-to-end data pipeline—from infrastructure setup to data transformation and analytics—using **Hadoop**, **PySpark**, and **PostgreSQL**, following a **Medallion Architecture** approach.
 
+<img width="1061" height="597" alt="hadoop4" src="https://github.com/user-attachments/assets/c4269320-51d3-4ee6-90c1-704f9e9dd8fd" />
+
 ---
 
 ## 1. Virtual Machine Setup
