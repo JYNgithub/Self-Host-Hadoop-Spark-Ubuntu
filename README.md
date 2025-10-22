@@ -25,7 +25,10 @@ The project demonstrates how to build an end-to-end data pipeline—from infrast
    - Edited key configuration files:  
      - `core-site.xml`  
      - `hdfs-site.xml`  
-     - `yarn-site.xml`  
+     - `yarn-site.xml`
+     - `mapred-site.xml`
+     - `hadoop-env.sh`
+     - `.bashrc`
    - Set up the **NameNode** and **DataNode** directories.  
 3. Formatted the NameNode and launched the **HDFS** cluster.  
 4. Configured **YARN** for resource management.  
